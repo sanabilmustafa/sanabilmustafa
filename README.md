@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanabilmustafa
-- 👀 I’m interested in web development for now. 
-- 🌱 I’m currently learning to use css to make complex designs as well react a java script framework.
+- 👀 I’m on my journey to become a fullstack developer.
+- 🌱 I'm looking forward to collaborate on full-stack projects soon.
 - 💞️ I’m looking to collaborate on any project related to frontend development.
 - 📫 How to reach me through my email sanabilmustafa@gmail.com
 
